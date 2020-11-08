@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Adm Eletronicos</string>
+    <string name="viewEstoque">Estoque</string>
+    <string name="viewCadastar">Cadastar/Remover</string>
+    <string name="viewNome">Nome do Produto</string>
+    <string name="viewFabricante">Fabricante</string>
+</resources>
